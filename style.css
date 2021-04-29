@@ -79,7 +79,7 @@ button:hover{
     color:hsla(0, 0%, 100%, 0.75);
 }
 
-@media (max-width: 720px) {
+@media (max-width: 1080px) {
     #content{
         flex-direction: column;
     }
