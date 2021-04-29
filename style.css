@@ -37,7 +37,6 @@ body{
     align-items: flex-start;
     justify-content: space-around;
     padding: 60px 20px 60px 40px;
-    width: 30%;
 }
 button{
     background-color:hsl(0, 0%, 95%);
